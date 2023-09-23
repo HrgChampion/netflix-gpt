@@ -24,6 +24,15 @@
 - Fetch Data for trailer video
 - Embedded youtube video
 - Build Secondary Component
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- usePopularMovies Custom hook
+- GPT Search page
+- GPT Search Bar
+- Multi lingual feature in our app
+- Integrate GPT API's
+
 
 # Features
 
